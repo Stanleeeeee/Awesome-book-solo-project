@@ -7,7 +7,7 @@
 }
 
 body {
-  background-color: #3b4e63;
+  background-color: #513b63;
   font-family: Arial, Helvetica, sans-serif;
   display: flex;
   flex-direction: column;
@@ -30,7 +30,7 @@ header > nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  background-color: rgb(247, 240, 240);
+  background-color: #f0ecb7;
   padding: 15px;
 }
 
@@ -42,7 +42,7 @@ header > nav > ul {
 }
 
 header > nav > ul > li {
-  color: red;
+  color: #cc0b0b;
   list-style: none;
   font-size: 0.9rem;
 }
@@ -112,7 +112,7 @@ section {
 .deletebtn:hover {
   cursor: pointer;
   background-color: rgb(190, 188, 188);
-  color: #142d4c;
+  color: #513b63;
   font-weight: 700;
 }
 
