@@ -24,7 +24,7 @@ window.addEventListener('DOMContentLoaded', () => {
     createBook() {
       bookSection.innerHTML = '';
       for (let i = 0; i < this.library.length; i += 1) {
-        const bookContainer = document.createElement("div");
+        const bookContainer = document.createElement('div');
         bookContainer.setAttribute('class', 'container');
         const bookDescription = document.createElement('h2');
         bookDescription.setAttribute('class', 'width');

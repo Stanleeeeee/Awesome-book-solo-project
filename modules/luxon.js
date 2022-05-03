@@ -1,3 +1,4 @@
+/* eslint-disable */
 class e extends Error {} class r extends e {constructor(e) { super(`Invalid DateTime: ${e.toMessage()}`); }} class n extends e {constructor(e) { super(`Invalid Interval: ${e.toMessage()}`); }} class s extends e {constructor(e) { super(`Invalid Duration: ${e.toMessage()}`); }} class N extends e {} class i extends e {constructor(e) { super(`Invalid unit ${e}`); }} class o extends e {} class a extends e {constructor() { super('Zone is an abstract class'); }} var t = 'numeric'; var u = 'short'; var l = 'long'; const c = { year: t, month: t, day: t }; const h = { year: t, month: u, day: t }; const d = {
   year: t, month: u, day: t, weekday: u,
 }; const m = { year: t, month: l, day: t }; const f = {
