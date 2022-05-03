@@ -29,8 +29,7 @@ The Awesome books was recreated using the following procedures:
 
 ## Authors
 
-👤 **Author1**
-- ### Ezeoke Stanley Ifeanyi
+👤 **Author1**  - ### Ezeoke Stanley Ifeanyi
 
 - GitHub: [@stanleeeeee](https://github.com/stanleeeeee)
 - Twitter: [@Stanmega89](https://twitter.com/Stanmega89)
