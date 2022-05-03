@@ -1,62 +1,45 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
+- #### Awesome Books
 
-> Description the project.
+## Description the project.
+The Awesome books was recreated using the following procedures:
+
+- Using ES6 syntax.
+- I Divided my code into modules, and saved each module in a  separate file in the modules dir. 
+- I Imported modules in the index.js file.
+- I Kept all funcionalities of the app without errors.
+- I Refactored my methods and functions to arrow functions.
+- I used the let and const in a correct way.
+- Displayed the current date below the navigation bar using a Luxon library.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
+- Javascript Es6 Syntax
+- luxon Library
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+[Live Demo Link](https://stanleeeeee.github.io/Awesome-book-solo-project/)
 
 
 ## Authors
 
 👤 **Author1**
+- ### Ezeoke Stanley Ifeanyi
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@stanleeeeee](https://github.com/stanleeeeee)
+- Twitter: [@Stanmega89](https://twitter.com/Stanmega89)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Stanleeeeee/Awesome-book-solo-project/issues).
 
 ## Show your support
 
